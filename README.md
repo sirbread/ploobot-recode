@@ -1,6 +1,8 @@
 # ploobot-recode
 an entire recode + update to the tiny jokebot i made a while ago <br>
 the bot is a extensive text modifier that modifies a user's input text to whatever they want, i.e. flipping text over, making text bold, translating to hex and binary, making it sound certains ways (like mOcKinG or uwutext), etc. <br>
+<br>
+oh mah gawsh I made it to the SCT-paws server!!111!
 
 ****full list of commands below!!***
 
