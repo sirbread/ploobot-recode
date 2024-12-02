@@ -16,9 +16,10 @@ the bot is a extensive text modifier that modifies a user's input text to whatev
 ## running and installing 
 1. clone thy repo.
 2. run `pip install -r requirements.txt`
-3. replace the bot token with your bot token that you got from the DDevs portal.
-4. run it locally or host it on a server
-5. fire away!
+4. replace the bot token with your bot token that you got from the DDevs portal.
+5. `cd` to the directory in which `ploobot.py` is in, then run `python3 ploobot.py`
+6. run it locally or host it on a server
+7. fire away!
 
 ## full list of commands
 there's a bunch of them, like 19, maybe you'd need a reference ;) <br>
